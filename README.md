@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @martinmedice
-- 👀 I’m interested in learn data analysis
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me martinmmarchelle@gmail.com
+
+<h1> Martin Medice Marchelle</h1>
+
+<p>
+  <a href="https://www.linkedin.com/in/martinmedice" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 
 <!---
 martinmedice/martinmedice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
